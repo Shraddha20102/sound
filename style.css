@@ -1,0 +1,30 @@
+body{
+    background-image: linear-gradient(to right top, #ff87e9, #d380fa, #9782ff, #75acff, #52bdff);
+}
+
+#heading{
+    background-image: linear-gradient(to right top, #ffd3f7, #efcbff, #ded7ff, #c5dcff, #b6e3ff);
+    position: fixed;
+    width: 100%;
+}
+
+h3{
+    font-family:cursive;
+    color: rgb(80, 20, 122);
+}
+
+h2{
+
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:rgb(98, 0, 255)
+}
+
+#startClassification{
+    background-color: rgb(136, 0, 255);
+}
+
+h4{
+    font-family:'Courier New', Courier, monospace;
+    color: white;
+    font-size:xx-large;
+}
